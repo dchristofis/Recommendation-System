@@ -40,4 +40,4 @@ Adding user-defined filters (e.g., only recommending movies from certain years o
 Enhancing the award-based weighting to emphasize critically acclaimed movies.
 
 ## Conclusion
-This recommendation system uses movie metadata to generate personalized, accurate movie recommendations. The combination of Word2Vec, embeddings and content-based filtering provides a powerful recommendation tool for Netflix-style applications.
+This recommendation system uses movie metadata to generate personalized, accurate movie recommendations. The combination of Word2Vec, embeddings and content-based filtering provides a powerful recommendation tool for Netflix-style applications
